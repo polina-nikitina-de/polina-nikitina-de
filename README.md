@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Polina 👋
 
-<!--
-**polina-nikitina-de/polina-nikitina-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Data Engineering and building my first projects.
 
-Here are some ideas to get you started:
+### Currently learning
+- SQL
+- Python
+- PostgreSQL
+- ETL / ELT
+- Git & GitHub
+- Apache Airflow
+- Apache Spark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My goal
+To become a Data Engineer and build reliable data pipelines.
+
+📍 Open to junior Data Engineer opportunities
