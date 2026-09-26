@@ -15,3 +15,4 @@ I'm learning Data Engineering and building my first projects.
 To become a Data Engineer and build reliable data pipelines.
 
 📍 Open to junior Data Engineer opportunities
+💻 Practicing Git and GitHub
